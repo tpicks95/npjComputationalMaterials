@@ -18,5 +18,5 @@ In this github you will find the following:
 2. Name the parameters and targets for which you will use later in your optimisation rounds - parameters are important, targets less so (otherwise the RF won't give predictions if parameters are left blank later)
 3. State the location of the PBM simulated dataset
 4. Run the RF model - it saves the scalar and the model to be used later
-5. Scale your experimental suggestions to be used by the model by using: scaler.transform(df_suggestions)
-6. Emulate results to your suggested experiments by using: model.predict(df_scaled_suggestions)
+5. Scale your experimental suggestions to be used by the model by using: **scaler.transform(df_suggestions)**
+6. Emulate results to your suggested experiments by using: **model.predict(df_scaled_suggestions)**
