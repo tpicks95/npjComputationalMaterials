@@ -1,6 +1,7 @@
 # Benchmarking model-based design of experiment approaches with a pharmaceutical crystallisation emulator
 
 **Contents**
+
 In this github you will find the following:
 
 1. An interative version of Figure 2 from the manuscript https://tpicks95.github.io/npjComputationalMaterials/plot.html
