@@ -22,3 +22,4 @@ In this github you will find the following:
 4. Run the RF model - it saves the scalar and the model to be used later
 5. Scale your experimental suggestions to be used by the model by using: **scaler.transform(df_suggestions)** where df_suggestions is a dataframe of initial experiments or MB-DoE led experiments
 6. Emulate results to your suggested experiments by using: **model.predict(df_scaled_suggestions)**
+7. Send us a message or an email with your optimisation campaigns!!
