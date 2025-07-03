@@ -10,7 +10,9 @@ In this github you will find the following:
 
 3. CSV file of the 20,000 generated experiments from the PBM
 
-4. Python notebook with the random forest model and initial sampling and Bayesian optimisation model (Note: the above csv has to be downloaded and filepath changed in the code)
+4. Python notebook of the random forest emulator
+
+5. Python notebook MB-DoE case study using the random forest model and initial sampling and Bayesian optimisation model (Note: the above csv has to be downloaded and filepath changed in the code)
 
 
 **Instructions for using the emulator**
