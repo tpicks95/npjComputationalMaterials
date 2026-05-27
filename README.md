@@ -4,7 +4,7 @@
 
 In this github you will find the following:
 
-1. An interative version of Figure 3 from the manuscript https://tpicks95.github.io/npjComputationalMaterials/pplot.html and also Figure 7 (download the HTML file GBvsGP](https://tpicks95.github.io/npjComputationalMaterials/GBvsGP.html)
+1. An interative version of Figure 3 from the manuscript https://tpicks95.github.io/npjComputationalMaterials/plot.html and also Figure 7 (download the HTML file GBvsGP](https://tpicks95.github.io/npjComputationalMaterials/GBvsGP.html)
 
 2. gPROMS population balance model
 
